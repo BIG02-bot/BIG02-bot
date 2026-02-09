@@ -34,8 +34,8 @@ Atualmente em evolução contínua em:
 ---
 
 ## 🎓 Formação
-**Graduação em Defesa Cibernética — Centro Universitário Senac**  
-Foco em Linux, CTI, redes, segurança ofensiva e defesa cibernética. 
+
+Graduação em Defesa Cibernética — Centro Universitário Senac
 ---
 
 ## 🧠 Competências Técnicas
