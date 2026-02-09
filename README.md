@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Mateus Papaes</h1>
+<h3 align="center">Cybersecurity • SOC • Analist</h3>
 
-<!--
-**BIG02-bot/BIG02-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Area-Pentest-red?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Learning-success?style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+Estudante de **segurança cibernética**, com foco em:
+
+- Offensive
+- Defensive 
+
+Atualmente praticando em **TryHackMe** e evoluindo para **Hack The Box**.
+
+---
+
+## Projetos em destaque
+- Write-ups de CTF (TryHackMe)  
+- Estudos práticos de Pentest Web  
+- Laboratórios de Privilege Escalation Linux  
+
+---
+
+## Estatísticas do GitHub
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BIG02-bot&show_icons=true&theme=default"/>
+</p>
+
+---
+
+<p align="center">
+Em evolução constante na área de Cybersecurity.
+</p>
