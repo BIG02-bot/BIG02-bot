@@ -22,7 +22,7 @@ Profissional de **Segurança da Informação** com atuação em **Security Opera
 - Contenção inicial de ameaças e documentação técnica
 - Investigação de atividades suspeitas e suporte à mitigação
 
-Experiência com ferramentas como **FortiSIEM, Wazuh, CrowdStrike, SentinelOne, Kaspersky e Microsoft Defender**, atuando na correlação de eventos, triagem de alertas e apoio a investigações de segurança. :contentReference[oaicite:1]{index=1}
+Experiência com ferramentas como **FortiSIEM, Wazuh, CrowdStrike, SentinelOne, Kaspersky e Microsoft Defender**, atuando na correlação de eventos, triagem de alertas e apoio a investigações de segurança. 
 
 Atualmente em evolução contínua em:
 
@@ -35,8 +35,7 @@ Atualmente em evolução contínua em:
 
 ## 🎓 Formação
 **Graduação em Defesa Cibernética — Centro Universitário Senac**  
-Foco em Linux, CTI, redes, segurança ofensiva e defesa cibernética. :contentReference[oaicite:2]{index=2}
-
+Foco em Linux, CTI, redes, segurança ofensiva e defesa cibernética. 
 ---
 
 ## 🧠 Competências Técnicas
@@ -44,7 +43,7 @@ Foco em Linux, CTI, redes, segurança ofensiva e defesa cibernética. :contentRe
 - Segurança: SIEM, EDR, análise de incidentes e vulnerabilidades  
 - Redes: TCP/IP, VPN, troubleshooting e segurança de rede  
 - Banco de Dados: SQL para análise e manutenção  
-- Hacking Ético: fundamentos de exploração e pentest introdutório :contentReference[oaicite:3]{index=3}
+- Hacking Ético: fundamentos de exploração e pentest introdutório 
 
 ---
 
