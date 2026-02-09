@@ -1,39 +1,57 @@
 <h1 align="center">Mateus Papaes</h1>
-<h3 align="center">Cybersecurity • SOC • Analist</h3>
+🛡️ Junior SOC Analyst | Cybersecurity | Incident Response  
+
+🔎 Monitoramento, análise e contenção de ameaças com SIEM e EDR  
+
+🎯 Evoluindo em Vulnerability Analysis, Threat Hunting e Pentest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Area-Pentest-red?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Learning-success?style=flat" />
+  <img src="https://img.shields.io/badge/SOC-Analyst-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incident-Response-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM%20%7C%20EDR-Operations-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blue%20Team-%E2%9E%9C%20Offensive-2ea44f?style=for-the-badge" />
 </p>
 
 ---
 
-## Sobre mim
-Estudante de **segurança cibernética**, com foco em:
-
-- Offensive
-- Defensive 
-
-Atualmente praticando em **TryHackMe** e evoluindo para **Hack The Box**.
+<h1 align="center">Mateus Papaes</h1>
+<h3 align="center">Junior SOC Analyst • Cybersecurity • Incident Response</h3>
 
 ---
 
-## Projetos em destaque
-- Write-ups de CTF (TryHackMe)  
-- Estudos práticos de Pentest Web  
-- Laboratórios de Privilege Escalation Linux  
+## 🛡️ Sobre mim
+Profissional de **Segurança da Informação** com atuação em **Security Operations Center (SOC)**, focado em:
+
+- Monitoramento e resposta a incidentes
+- Análise de alertas em SIEM e EDR
+- Contenção inicial de ameaças e documentação técnica
+- Investigação de atividades suspeitas e suporte à mitigação
+
+Experiência com ferramentas como **FortiSIEM, Wazuh, CrowdStrike, SentinelOne, Kaspersky e Microsoft Defender**, atuando na correlação de eventos, triagem de alertas e apoio a investigações de segurança. :contentReference[oaicite:1]{index=1}
+
+Atualmente em evolução contínua em:
+
+- Incident Response  
+- Vulnerability Analysis  
+- Threat Hunting  
+- Pentest e Web Security  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BIG02-bot&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIG02-bot&layout=compact&theme=tokyonight"/>
-</p>
+## 🎓 Formação
+**Graduação em Defesa Cibernética — Centro Universitário Senac**  
+Foco em Linux, CTI, redes, segurança ofensiva e defesa cibernética. :contentReference[oaicite:2]{index=2}
 
 ---
 
-<p align="center">
-Em evolução constante na área de Cybersecurity.
-</p>
+## 🧠 Competências Técnicas
+- Sistemas: Linux e Windows  
+- Segurança: SIEM, EDR, análise de incidentes e vulnerabilidades  
+- Redes: TCP/IP, VPN, troubleshooting e segurança de rede  
+- Banco de Dados: SQL para análise e manutenção  
+- Hacking Ético: fundamentos de exploração e pentest introdutório :contentReference[oaicite:3]{index=3}
+
+---
+
+## 🚀 Objetivo de Carreira
+Evoluir em **Resposta a Incidentes, Threat Hunting e Segurança Ofensiva**, contribuindo para ambientes corporativos que priorizam **proteção de dados e resiliência digital**.
