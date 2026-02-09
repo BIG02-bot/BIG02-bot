@@ -26,9 +26,10 @@ Atualmente praticando em **TryHackMe** e evoluindo para **Hack The Box**.
 
 ---
 
-## Estatísticas do GitHub
+## 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BIG02-bot&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BIG02-bot&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIG02-bot&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
