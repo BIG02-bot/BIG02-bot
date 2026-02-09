@@ -14,11 +14,6 @@
 
 ---
 
-<h1 align="center">Mateus Papaes</h1>
-<h3 align="center">Junior SOC Analyst • Cybersecurity • Incident Response</h3>
-
----
-
 ## 🛡️ Sobre mim
 Profissional de **Segurança da Informação** com atuação em **Security Operations Center (SOC)**, focado em:
 
